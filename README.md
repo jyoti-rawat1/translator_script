@@ -49,3 +49,7 @@ headers = {
 
 response = requests.post(url, data=payload, headers=headers)
 print(response.json())
+
+#Screenshot
+
+![Translator Output](images/output.jpeg)
